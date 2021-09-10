@@ -1,2 +1,2 @@
 # NS-Mini-Project-Portfolio
- The NewtonSchool Mini Project
+ The NewtonSchool Mini Project(Portfolio)
